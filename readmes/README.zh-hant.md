@@ -21,9 +21,9 @@ Open-C3是一個開源的自動化運維平臺，功能包括CMDB、監控系統
 curl -sSL https://raw.githubusercontent.com/open-c3/open-c3/v2.6.1/Installer/scripts/single.sh | OPENC3VERSION=v2.6.1 bash -s install 10.10.10.10
 ```
 
-在您的瀏覽器中訪問 JumpServer：`http://your-openc3-ip/`
-- 用戶名：`admin`
-- 密碼：`ChangeMe`
+在您的瀏覽器中訪問 Open-C3：`http://your-openc3-ip/`
+- 用戶名：`open-c3`
+- 密碼：`changeme`
 
 ## 截圖
 <table style="border-collapse: collapse; border: 1px solid black;">
