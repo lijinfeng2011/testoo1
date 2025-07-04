@@ -6,7 +6,7 @@
 
 [![][license-shield]][license-link]
 [![][docs-shield]][docs-link]
-[![][deepwiki-shield]][deepwiki-link]
+[![][guide-shield]][guide-link]
 [![][discord-shield]][discord-link]
 [![][docker-shield]][docker-link]
 [![][github-release-shield]][github-release-link]
@@ -75,7 +75,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 <!-- JumpServer official link -->
 [docs-link]: https://open-c3.github.io
 [discord-link]: https://discord.com/invite/W6vYXmAQG2
-[deepwiki-link]: https://deepwiki.com/jumpserver/jumpserver/
+[guide-link]: https://guide.com/jumpserver/jumpserver/
 [contributing-link]: /CONTRIBUTING.md
 
 <!-- JumpServer Other link-->
@@ -91,5 +91,5 @@ Unless required by applicable law or agreed to in writing, software distributed 
 [github-stars-shield]: https://img.shields.io/github/stars/open-c3/open-c3?color=%231890FF&style=flat-square   
 [docker-shield]: /openc3_docker_all.svg
 [license-shield]: /GPL-2.0.svg
-[deepwiki-shield]: https://img.shields.io/badge/deepwiki-devin?color=blue
+[guide-shield]: /guide.svg
 [discord-shield]: https://img.shields.io/discord/1194233267294052363?style=flat&logo=discord&logoColor=%23f5f5f5&labelColor=%235462eb&color=%235462eb
