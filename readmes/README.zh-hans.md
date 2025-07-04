@@ -61,24 +61,5 @@ https://www.gnu.org/licenses/gpl-2.0.html
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an " AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-<!-- JumpServer official link -->
-[docs-link]: https://jumpserver.com/docs
-[discord-link]: https://discord.com/invite/W6vYXmAQG2
-[deepwiki-link]: https://deepwiki.com/jumpserver/jumpserver/
+<!-- Open-C3 official link -->
 [contributing-link]: /CONTRIBUTING.md
-
-<!-- JumpServer Other link-->
-[license-link]: https://www.gnu.org/licenses/gpl-3.0.html
-[docker-link]: https://hub.docker.com/u/jumpserver
-[github-release-link]: https://github.com/jumpserver/jumpserver/releases/latest
-[github-stars-link]: https://github.com/jumpserver/jumpserver
-[github-issues-link]: https://github.com/jumpserver/jumpserver/issues
-
-<!-- Shield link-->
-[docs-shield]: https://img.shields.io/badge/documentation-148F76
-[github-release-shield]: https://img.shields.io/github/v/release/jumpserver/jumpserver
-[github-stars-shield]: https://img.shields.io/github/stars/jumpserver/jumpserver?color=%231890FF&style=flat-square   
-[docker-shield]: https://img.shields.io/docker/pulls/jumpserver/jms_all.svg
-[license-shield]: https://img.shields.io/github/license/jumpserver/jumpserver
-[deepwiki-shield]: https://img.shields.io/badge/deepwiki-devin?color=blue
-[discord-shield]: https://img.shields.io/discord/1194233267294052363?style=flat&logo=discord&logoColor=%23f5f5f5&labelColor=%235462eb&color=%235462eb
