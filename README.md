@@ -7,7 +7,6 @@
 [![][license-shield]][license-link]
 [![][docs-shield]][docs-link]
 [![][guide-shield]][guide-link]
-[![][discord-shield]][discord-link]
 [![][docker-shield]][docker-link]
 [![][github-release-shield]][github-release-link]
 [![][github-stars-shield]][github-stars-link]
@@ -74,7 +73,6 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 <!-- JumpServer official link -->
 [docs-link]: https://open-c3.github.io
-[discord-link]: https://discord.com/invite/W6vYXmAQG2
 [guide-link]: https://open-c3-guide.github.io
 [contributing-link]: /CONTRIBUTING.md
 
@@ -92,4 +90,3 @@ Unless required by applicable law or agreed to in writing, software distributed 
 [docker-shield]: /openc3_docker_all.svg
 [license-shield]: /GPL-2.0.svg
 [guide-shield]: https://img.shields.io/badge/guide-x?color=blue
-[discord-shield]: https://img.shields.io/discord/1194233267294052363?style=flat&logo=discord&logoColor=%23f5f5f5&labelColor=%235462eb&color=%235462eb
