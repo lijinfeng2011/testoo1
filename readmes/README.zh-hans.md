@@ -65,7 +65,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 [docs-link]: https://jumpserver.com/docs
 [discord-link]: https://discord.com/invite/W6vYXmAQG2
 [deepwiki-link]: https://deepwiki.com/jumpserver/jumpserver/
-[contributing-link]: https://github.com/jumpserver/jumpserver/blob/dev/CONTRIBUTING.md
+[contributing-link]: /CONTRIBUTING.md
 
 <!-- JumpServer Other link-->
 [license-link]: https://www.gnu.org/licenses/gpl-3.0.html
