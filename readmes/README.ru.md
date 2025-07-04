@@ -2,7 +2,7 @@
   <a name="readme-top"></a>
   <a href="https://www.open-c3.online/demo.html" target="_blank"><img src="/c3-front/src/assets/images/open-c3-logo.jpeg" alt="Open-C3" width="100" /></a>
   
-## Автоматизированная платформа с открытым исходным кодом (DevOps)
+## Автоматизированная open-source платформа для DevOps
 
 </div>
 <br/>

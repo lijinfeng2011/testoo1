@@ -2,7 +2,7 @@
   <a name="readme-top"></a>
   <a href="https://www.open-c3.online/demo.html" target="_blank"><img src="/c3-front/src/assets/images/open-c3-logo.jpeg" alt="Open-C3" width="100" /></a>
   
-## オープンソースの自動次元運用プラットフォーム（DevOps）
+## オープンソースの自動化運用管理プラットフォーム（DevOps向け）
 
 </div>
 <br/>

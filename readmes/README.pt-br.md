@@ -2,7 +2,7 @@
   <a name="readme-top"></a>
   <a href="https://www.open-c3.online/demo.html" target="_blank"><img src="/c3-front/src/assets/images/open-c3-logo.jpeg" alt="Open-C3" width="100" /></a>
   
-## Uma plataforma de automação de código aberto (DevOps)
+## Uma plataforma de automação open-source para operações e DevOps
 
 </div>
 <br/>
