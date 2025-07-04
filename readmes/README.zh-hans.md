@@ -11,24 +11,17 @@
 
 Open-C3 是一个开源的自动化运维平台，功能包括 CMDB、监控系统、发布系统、工单系统、流程系统 等，同时各子系统之间自动联动。是一个一体化的自动化运维平台，
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.jumpserver.com/images/jumpserver-arch-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.jumpserver.com/images/jumpserver-arch-dark.png">
-  <img src="https://github.com/user-attachments/assets/dd612f3d-c958-4f84-b164-f31b75454d7f" alt="基于主题的图像">
-</picture>
-
-
 ## 快速启动
 
 准备一个干净的 Linux Server (64 位，>= 4c8g)
 
 ```sh
-curl -sSL https://github.com/jumpserver/jumpserver/releases/latest/download/quick_start.sh | bash
+curl -sSL https://raw.githubusercontent.com/open-c3/open-c3/v2.6.1/Installer/scripts/single.sh | OPENC3VERSION=v2.6.1 bash -s install 10.10.10.10
 ```
 
-通过您的浏览器访问 JumpServer，地址为 `http://your-jumpserver-ip/`
-- 用户名: `admin`
-- 密码: `ChangeMe`
+通过您的浏览器访问 Open-C3，地址为 `http://your-jumpserver-ip/`
+- 用户名: `open-c3`
+- 密码: `changeme`
 
 [![JumpServer 快速启动](https://github.com/user-attachments/assets/0f32f52b-9935-485e-8534-336c63389612)](https://www.youtube.com/watch?v=UlGYRbKrpgY "JumpServer 快速启动")
 
