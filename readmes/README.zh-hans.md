@@ -26,7 +26,7 @@ curl -sSL https://raw.githubusercontent.com/open-c3/open-c3/v2.6.1/Installer/scr
 ## 截图
 <table style="border-collapse: collapse; border: 1px solid black;">
   <tr>
-    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/jumpserver/jumpserver/assets/32935519/99fabe5b-0475-4a53-9116-4c370a1426c4" alt="JumpServer 控制台"   /></td>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/user-attachments/assets/9d48a809-7a24-4e9b-a711-adb1d7fa2744" alt="JumpServer 控制台"   /></td>
     <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/user-attachments/assets/7c1f81af-37e8-4f07-8ac9-182895e1062e" alt="JumpServer PAM"   /></td>    
   </tr>
   <tr>
