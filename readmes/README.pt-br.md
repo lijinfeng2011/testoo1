@@ -2,24 +2,14 @@
   <a name="readme-top"></a>
   <a href="https://jumpserver.com" target="_blank"><img src="https://download.jumpserver.org/images/jumpserver-logo.svg" alt="JumpServer" width="300" /></a>
   
-## An open-source PAM tool (Bastion Host)
-
-[![][license-shield]][license-link]
-[![][docs-shield]][docs-link]
-[![][deepwiki-shield]][deepwiki-link]
-[![][discord-shield]][discord-link]
-[![][docker-shield]][docker-link]
-[![][github-release-shield]][github-release-link]
-[![][github-stars-shield]][github-stars-link]
-
-[English](/README.md) · [中文(简体)](/readmes/README.zh-hans.md) · [中文(繁體)](/readmes/README.zh-hant.md) · [日本語](/readmes/README.ja.md) · [Português (Brasil)](/readmes/README.pt-br.md) · [Español](/readmes/README.es.md) · [Русский](/readmes/README.ru.md) · [한국어](/readmes/README.ko.md)
+## Uma ferramenta de PAM de código aberto (Bastion Host)
 
 </div>
 <br/>
 
-## What is JumpServer?
+## O que é o JumpServer?
 
-JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+JumpServer é uma ferramenta de Gestão de Acesso Privilegiado (PAM) de código aberto que fornece aos times de DevOps e TI acesso sob demanda e seguro a SSH, RDP, Kubernetes, Database e endpoints RemoteApp através de um navegador web.
 
 
 <picture>
@@ -29,21 +19,21 @@ JumpServer is an open-source Privileged Access Management (PAM) tool that provid
 </picture>
 
 
-## Quickstart
+## Começando Rápido
 
-Prepare a clean Linux Server ( 64 bit, >= 4c8g )
+Prepare um servidor Linux limpo (64 bits, >= 4c8g)
 
 ```sh
 curl -sSL https://github.com/jumpserver/jumpserver/releases/latest/download/quick_start.sh | bash
 ```
 
-Access JumpServer in your browser at `http://your-jumpserver-ip/`
-- Username: `admin`
-- Password: `ChangeMe`
+Acesse o JumpServer em seu navegador em `http://your-jumpserver-ip/`
+- Nome de usuário: `admin`
+- Senha: `ChangeMe`
 
 [![JumpServer Quickstart](https://github.com/user-attachments/assets/0f32f52b-9935-485e-8534-336c63389612)](https://www.youtube.com/watch?v=UlGYRbKrpgY "JumpServer Quickstart")
 
-## Screenshots
+## Capturas de Tela
 <table style="border-collapse: collapse; border: 1px solid black;">
   <tr>
     <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/jumpserver/jumpserver/assets/32935519/99fabe5b-0475-4a53-9116-4c370a1426c4" alt="JumpServer Console"   /></td>
@@ -67,11 +57,11 @@ Access JumpServer in your browser at `http://your-jumpserver-ip/`
   </tr>
 </table>
 
-## Components
+## Componentes
 
-JumpServer consists of multiple key components, which collectively form the functional framework of JumpServer, providing users with comprehensive capabilities for operations management and security control.
+JumpServer consiste em múltiplos componentes chave, que formam coletivamente a estrutura funcional do JumpServer, proporcionando aos usuários capacidades abrangentes para gerenciamento de operações e controle de segurança.
 
-| Project                                                | Status                                                                                                                                                                 | Description                                                                                             |
+| Projeto                                                | Status                                                                                                                                                                 | Descrição                                                                                             |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | [Lina](https://github.com/jumpserver/lina)             | <a href="https://github.com/jumpserver/lina/releases"><img alt="Lina release" src="https://img.shields.io/github/release/jumpserver/lina.svg" /></a>                   | JumpServer Web UI                                                                                       |
 | [Luna](https://github.com/jumpserver/luna)             | <a href="https://github.com/jumpserver/luna/releases"><img alt="Luna release" src="https://img.shields.io/github/release/jumpserver/luna.svg" /></a>                   | JumpServer Web Terminal                                                                                 |
@@ -86,9 +76,9 @@ JumpServer consists of multiple key components, which collectively form the func
 | [Facelive](https://github.com/jumpserver/facelive)     | <img alt="Facelive" src="https://img.shields.io/badge/release-private-red" />                                                                                          | JumpServer EE Facial Recognition                                                                        |
 
 
-## Contributing
+## Contribuindo
 
-Welcome to submit PR to contribute. Please refer to [CONTRIBUTING.md][contributing-link] for guidelines.
+Bem-vindo para enviar PR para contribuir. Por favor, consulte [CONTRIBUTING.md][contributing-link] para diretrizes.
 
 ## License
 
