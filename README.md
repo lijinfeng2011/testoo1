@@ -75,7 +75,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 <!-- JumpServer official link -->
 [docs-link]: https://open-c3.github.io
 [discord-link]: https://discord.com/invite/W6vYXmAQG2
-[guide-link]: https://guide.com/jumpserver/jumpserver/
+[guide-link]: https://open-c3-guide.github.io
 [contributing-link]: /CONTRIBUTING.md
 
 <!-- JumpServer Other link-->
@@ -83,7 +83,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 [docker-link]: https://hub.docker.com/u/openc3
 [github-release-link]: https://github.com/open-c3/open-c3/releases/latest
 [github-stars-link]: https://github.com/open-c3/open-c3
-[github-issues-link]: https://github.com/jumpserver/jumpserver/issues
+[github-issues-link]: https://github.com/open-c3/open-c3/issues
 
 <!-- Shield link-->
 [docs-shield]: /documentation.svg
