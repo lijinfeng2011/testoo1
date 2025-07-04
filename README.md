@@ -71,12 +71,12 @@ https://www.gnu.org/licenses/gpl-2.0.html
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an " AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 
-<!-- JumpServer official link -->
+<!-- Open-C3 official link -->
 [docs-link]: https://open-c3.github.io
 [guide-link]: https://open-c3-guide.github.io
 [contributing-link]: /CONTRIBUTING.md
 
-<!-- JumpServer Other link-->
+<!-- Open-C3 Other link-->
 [license-link]: https://www.gnu.org/licenses/gpl-2.0.html
 [docker-link]: https://hub.docker.com/u/openc3
 [github-release-link]: https://github.com/open-c3/open-c3/releases/latest
