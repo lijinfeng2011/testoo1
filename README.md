@@ -84,9 +84,9 @@ Unless required by applicable law or agreed to in writing, software distributed 
 [github-issues-link]: https://github.com/open-c3/open-c3/issues
 
 <!-- Shield link-->
-[docs-shield]: /documentation.svg
-[github-release-shield]: /release.svg
+[docs-shield]: https://www.open-c3.online/readme/svg/documentation.svg
+[github-release-shield]: https://www.open-c3.online/readme/svg/release.svg
 [github-stars-shield]: https://img.shields.io/github/stars/open-c3/open-c3?color=%231890FF&style=flat-square   
-[docker-shield]: /openc3_docker_all.svg
-[license-shield]: /GPL-2.0.svg
+[docker-shield]: https://www.open-c3.online/readme/svg/openc3_docker_all.svg
+[license-shield]: https://www.open-c3.online/readme/svg/GPL-2.0.svg
 [guide-shield]: https://img.shields.io/badge/guide-x?color=blue
