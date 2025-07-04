@@ -2,14 +2,14 @@
   <a name="readme-top"></a>
   <a href="https://www.open-c3.online/demo.html" target="_blank"><img src="/c3-front/src/assets/images/open-c3-logo.jpeg" alt="Open-C3" width="100" /></a>
   
-## 一个开源的 PAM 工具 (堡垒主机)
+## 一个开源的 自动化运维 平台 (DevOps)
 
 </div>
 <br/>
 
-## 什么是 JumpServer？
+## 什么是 Open-C3？
 
-JumpServer 是一个开源的特权访问管理 (PAM) 工具，能够通过网页浏览器为 DevOps 和 IT 团队提供按需和安全的 SSH、RDP、Kubernetes、数据库和远程应用程序端点访问。
+Open-C3 是一个开源的自动化运维平台，功能包括 CMDB、监控系统、发布系统、工单系统、流程系统 等，同时各子系统之间自动联动。是一个一体化的自动化运维平台，
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.jumpserver.com/images/jumpserver-arch-light.png">
