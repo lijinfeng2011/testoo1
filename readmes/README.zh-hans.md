@@ -1,6 +1,6 @@
 <div align="center">
   <a name="readme-top"></a>
-  <a href="https://www.open-c3.online/demo.html" target="_blank"><img src="./c3-front/src/assets/images/open-c3-logo.jpeg" alt="Open-C3" width="100" /></a>
+  <a href="https://www.open-c3.online/demo.html" target="_blank"><img src="/c3-front/src/assets/images/open-c3-logo.jpeg" alt="Open-C3" width="100" /></a>
   
 ## 一个开源的 PAM 工具 (堡垒主机)
 
