@@ -9,7 +9,7 @@
 
 ## O que é o Open-C3?
 
-O Open-C3 é uma plataforma de operações de automação de código aberto com recursos que incluem CMDB, sistemas de monitoramento, sistemas de publicação, sistemas de ordens de trabalho, sistemas de processos e muito mais, ao mesmo tempo em que os subsistemas são conectados automaticamente. É uma plataforma de automatização integrada.
+O Open-C3 é uma plataforma de operações automatizadas de código aberto que inclui recursos como CMDB, sistemas de monitoramento, sistemas de implantação, sistemas de ordens de trabalho, sistemas de processos, entre outros, com interconexão automática entre os subsistemas. Trata-se de uma plataforma integrada de automação.
 
 ## Começando Rápido
 

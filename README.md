@@ -2,7 +2,7 @@
   <a name="readme-top"></a>
   <a href="https://www.open-c3.online/demo.html" target="_blank"><img src="/c3-front/src/assets/images/open-c3-logo.jpeg" alt="Open-C3" width="100" /></a>
   
-## An open-source automated operations platform (DevOps)
+## An open-source platform for IT automation and operations (DevOps)
 
 [![][license-shield]][license-link]
 [![][docs-shield]][docs-link]
@@ -18,7 +18,7 @@
 
 ## What is Open-C3?
 
-Open-C3 is an open-source automated operation and maintenance platform, which includes features such as CMDB, monitoring system, publishing system, work order system, process system, etc., and automatic linkage between various subsystems. It is an integrated automated operation and maintenance platform.
+Open-C3 is an open-source platform for IT automation and operations. It provides integrated features such as CMDB, monitoring, deployment (CI/CD), ticketing, and workflow systems, with automatic linkage across subsystems. It is designed to be a unified and fully automated operations platform.
 
 ## Quickstart
 
