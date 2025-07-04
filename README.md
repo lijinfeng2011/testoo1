@@ -79,7 +79,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 [contributing-link]: /CONTRIBUTING.md
 
 <!-- JumpServer Other link-->
-[license-link]: https://www.gnu.org/licenses/gpl-3.0.html
+[license-link]: https://www.gnu.org/licenses/gpl-2.0.html
 [docker-link]: https://hub.docker.com/u/jumpserver
 [github-release-link]: https://github.com/jumpserver/jumpserver/releases/latest
 [github-stars-link]: https://github.com/jumpserver/jumpserver
