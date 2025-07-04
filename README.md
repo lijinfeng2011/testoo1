@@ -80,7 +80,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 <!-- JumpServer Other link-->
 [license-link]: https://www.gnu.org/licenses/gpl-2.0.html
-[docker-link]: https://hub.docker.com/u/jumpserver
+[docker-link]: https://hub.docker.com/u/open-c3
 [github-release-link]: https://github.com/jumpserver/jumpserver/releases/latest
 [github-stars-link]: https://github.com/jumpserver/jumpserver
 [github-issues-link]: https://github.com/jumpserver/jumpserver/issues
