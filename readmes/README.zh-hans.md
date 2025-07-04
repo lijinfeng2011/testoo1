@@ -23,8 +23,6 @@ curl -sSL https://raw.githubusercontent.com/open-c3/open-c3/v2.6.1/Installer/scr
 - 用户名: `open-c3`
 - 密码: `changeme`
 
-[![JumpServer 快速启动](https://github.com/user-attachments/assets/0f32f52b-9935-485e-8534-336c63389612)](https://www.youtube.com/watch?v=UlGYRbKrpgY "JumpServer 快速启动")
-
 ## 截图
 <table style="border-collapse: collapse; border: 1px solid black;">
   <tr>
