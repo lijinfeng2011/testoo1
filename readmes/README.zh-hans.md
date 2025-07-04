@@ -26,8 +26,8 @@ curl -sSL https://raw.githubusercontent.com/open-c3/open-c3/v2.6.1/Installer/scr
 ## 截图
 <table style="border-collapse: collapse; border: 1px solid black;">
   <tr>
-    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/user-attachments/assets/9d48a809-7a24-4e9b-a711-adb1d7fa2744" alt="JumpServer 控制台"   /></td>
-    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/user-attachments/assets/7c1f81af-37e8-4f07-8ac9-182895e1062e" alt="JumpServer PAM"   /></td>    
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/user-attachments/assets/c3070a34-f1e4-42a9-b240-79056909e00b" alt="Open-C3 CMDB 首页"   /></td>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/user-attachments/assets/15aff287-4cf1-4eed-8567-65567020df07" alt="Open-C3 CMDB 查看单个资源详情"   /></td>    
   </tr>
   <tr>
     <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/jumpserver/jumpserver/assets/32935519/a424d731-1c70-4108-a7d8-5bbf387dda9a" alt="JumpServer 审计"   /></td>
