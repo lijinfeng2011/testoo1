@@ -73,7 +73,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 
 <!-- JumpServer official link -->
-[docs-link]: https://jumpserver.com/docs
+[docs-link]: https://open-c3.github.io
 [discord-link]: https://discord.com/invite/W6vYXmAQG2
 [deepwiki-link]: https://deepwiki.com/jumpserver/jumpserver/
 [contributing-link]: /CONTRIBUTING.md
