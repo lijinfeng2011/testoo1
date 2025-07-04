@@ -91,5 +91,5 @@ Unless required by applicable law or agreed to in writing, software distributed 
 [github-stars-shield]: https://img.shields.io/github/stars/open-c3/open-c3?color=%231890FF&style=flat-square   
 [docker-shield]: /openc3_docker_all.svg
 [license-shield]: /GPL-2.0.svg
-[guide-shield]: /guide.svg
+[guide-shield]: https://img.shields.io/badge/guide-x?color=blue
 [discord-shield]: https://img.shields.io/discord/1194233267294052363?style=flat&logo=discord&logoColor=%23f5f5f5&labelColor=%235462eb&color=%235462eb
