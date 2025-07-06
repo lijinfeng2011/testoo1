@@ -14,8 +14,8 @@ curl -sSL https://github.com/open-c3/open-c3/releases/download/v2.6.1-latest/qui
 
 通过下面的地址获取最新版本的安装包。
 
-* > 百度网盘:  [点击进入](https://pan.baidu.com/s/1nF8eqCmpjaDHJJlY4Sidog?pwd=open)
-* > 官网下载:  [点击进入](https://www.open-c3.online/open-c3-installer/)
+* 百度网盘:  [点击进入](https://pan.baidu.com/s/1nF8eqCmpjaDHJJlY4Sidog?pwd=open)
+* 官网下载:  [点击进入](https://www.open-c3.online/open-c3-installer/)
 
 ### 安装
 
